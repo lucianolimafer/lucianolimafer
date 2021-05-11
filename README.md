@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianolimafer&margin-w=15&row=1&theme=nord" alt="lucianolimafer" /></a> </p>
 
-- 🔭 I’m currently working on [SeuLuis (back-end/web/mobile)](https://github.com/lucianolimafer/gobarber)
+- 🔭 I’m currently working on [Rockapps (Frontend and Mobile Developer)](https://www.rockapps.com.br/)
 
-- 🌱 I’m currently learning **NodeJS and Typescript.**
+- 🌱 I’m currently learning **React Native, always with Typescript.**
 
 - 👯 I’m looking to collaborate on [Coffe Ritus](https://github.com/lucianolimafer/cofferitus)
 

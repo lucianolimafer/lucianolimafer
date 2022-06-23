@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working with **React Native, always with Typescript.**
 
-- 👯 I’m looking to collaborate on [Coffe Ritus](https://github.com/lucianolimafer/cofferitus)
-
 - 👨‍💻 All of my projects are available at [https://github.com/lucianolimafer/](https://github.com/lucianolimafer/)
 
 - 📫 How to reach me **lucianolimaf3r@gmail,com or @lucianolimafer on instagram**
